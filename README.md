@@ -46,10 +46,18 @@ hydra -l admin -P /usr/share/wordlists/rockyou.txt 192.168.114.131 http-get-form
 - Enable CAPTCHA
 - Use multi-factor authentication (MFA)
 
+ ## 🔍 Security Level Comparison
+
+| Level   | Result |
+|--------|--------|
+| Medium | Password cracked easily |
+| High   | Still vulnerable under certain conditions |
+ 
+
 ---
 
 ## 📷 Screenshots
-See `/screenshots/`
+See ``
 
 ---
 
@@ -59,3 +67,5 @@ See `/screenshots/`
 - Real-world attack simulation
 
 ⚠️ This project is conducted in DVWA lab for educational purposes only.
+
+
