@@ -46,19 +46,11 @@ hydra -l admin -P /usr/share/wordlists/rockyou.txt 192.168.114.131 http-get-form
 - Enable CAPTCHA
 - Use multi-factor authentication (MFA)
 
- ## 🔍 Security Level Comparison
-
-| Level   | Result |
-|--------|--------|
-| Medium | Password cracked easily |
-| High   | Still vulnerable under certain conditions |
- 
-
 ---
 
 ## 📷 Screenshots
-Hydra login page Brute Force attack
-`<img width="968" height="298" alt="hydra" src="https://github.com/user-attachments/assets/0b53bf9e-c626-4384-94fd-b3330d9ccd92" />`
+See `/<img width="968" height="298" alt="hydra" src="https://github.com/user-attachments/assets/5dc52fdc-09c0-44b2-a934-521d18cf1fa4" />
+/`
 
 ---
 
@@ -68,5 +60,3 @@ Hydra login page Brute Force attack
 - Real-world attack simulation
 
 ⚠️ This project is conducted in DVWA lab for educational purposes only.
-
-
