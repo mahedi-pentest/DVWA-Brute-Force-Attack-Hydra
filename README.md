@@ -49,7 +49,8 @@ hydra -l admin -P /usr/share/wordlists/rockyou.txt 192.168.114.131 http-get-form
 ---
 
 ## 📷 Screenshots
-See `<img width="968" height="298" alt="hydra" src="https://github.com/user-attachments/assets/5dc52fdc-09c0-44b2-a934-521d18cf1fa4" />
+See `<img width="968" height="298" alt="hydra" src="https://github.com/user-attachments/assets/5dc52fdc-09c0-44b2-a934-521d18cf1fa4" /><img width="957" height="311" alt="hydra 2" src="https://github.com/user-attachments/assets/d7d2186b-955b-4eb1-bf75-8043521caef9" />
+
 `
 
 ---
