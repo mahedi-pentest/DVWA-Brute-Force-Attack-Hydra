@@ -57,7 +57,8 @@ hydra -l admin -P /usr/share/wordlists/rockyou.txt 192.168.114.131 http-get-form
 ---
 
 ## 📷 Screenshots
-Hydra login page Brute Force attack `<img width="968" height="298" alt="hydra" src="https://github.com/user-attachments/assets/37557100-2646-4070-a1ca-6548cc0bb308" />
+Hydra login page Brute Force attack
+`<img width="968" height="298" alt="hydra" src="https://github.com/user-attachments/assets/0b53bf9e-c626-4384-94fd-b3330d9ccd92" />
 `
 
 ---
